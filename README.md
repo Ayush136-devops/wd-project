@@ -59,9 +59,10 @@ You can also run it locally by opening `index.html` in any modern web browser.
    git clone https://github.com/Ayush136-devops/wd-project.git
    
 2. Navigate to the project directory
+   ```bash
    cd wd-project
    
-3. Open index.html in your browser
+3. Open `index.html` in your browser
    
 ---
 
