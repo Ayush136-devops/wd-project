@@ -8,6 +8,7 @@ The project focuses on creating a multi-page, responsive website with proper nav
 
 
 ## 📁 Project Structure
+
 /
 ├── index.html
 ├── about_us.html
