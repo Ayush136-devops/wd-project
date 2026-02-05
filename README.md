@@ -7,21 +7,6 @@ The project focuses on creating a multi-page, responsive website with proper nav
 👉 https://apexorigindesigns-u645.vercel.app/
 
 
-## 📁 Project Structure
-
-/
-├── index.html
-├── about_us.html
-├── ContactUs.html
-├── Gallery.html
-├── annualreports.html
-├── history.html
-├── styles.css
-├── Gallery.css
-├── script.js
-├── images/
-└── README.md
-
 ---
 
 ## 🖥️ Live Preview
